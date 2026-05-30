@@ -41,6 +41,6 @@ LangChain
 
 ## Contact
 
-LinkedIn
-Portfolio
+LinkedIn |
+Portfolio |
 Email
