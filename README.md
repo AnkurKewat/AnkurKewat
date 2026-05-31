@@ -45,20 +45,26 @@ https://nebula-pi-mauve.vercel.app
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,python,git,github,tailwind,vercel,vscode" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,vscode,postman" />
+
 </p>
 
-# 🚀 Featured Projects
+<p align="center">
 
-## 🤖 Nebula AI Workspace
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 
-AI-powered development workspace focused on productivity, intelligent workflows, AI integrations, and modern SaaS experiences.
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-### Tech
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-Next.js • TypeScript • Tailwind CSS • AI Integrations
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
 
----
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST_APIs-00C853?style=for-the-badge" />
+
+</p>
 
 ## ⚡ RenderLens
 
