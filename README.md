@@ -74,15 +74,20 @@ https://nebula-pi-mauve.vercel.app
 
 </p>
 
-## ⚡ RenderLens
+## 🤖 Nebula AI Workspace
 
-React performance analysis platform with:
+AI-powered developer workspace with:
 
-* Dependency Visualization
-* Performance Hotspot Detection
-* Refactor Suggestions
-* Component Intelligence
-* Optimization Scoring
+* Real-Time AI Chat
+* Gemini API Integration
+* Streaming Responses
+* Markdown & Code Rendering
+* Persistent Chat History
+* Modern SaaS Dashboard
+* Glassmorphism UI Design
+* Framer Motion Animations
+* Responsive Architecture
+* Reusable Component System
 
 ---
 
