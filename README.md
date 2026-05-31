@@ -45,24 +45,32 @@ https://nebula-pi-mauve.vercel.app
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,vscode" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/REST_APIs-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-9C27B0?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Performance_Optimization-00C853?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Component_Architecture-FF9800?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/API_Integration-03A9F4?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge" />
 
 </p>
 
