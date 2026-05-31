@@ -90,7 +90,7 @@ https://nebula-pi-mauve.vercel.app/
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkurKewat/Ankur-Kewat/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AnkurKewat/AnkurKewat/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
