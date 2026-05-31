@@ -100,7 +100,7 @@ https://nebula-pi-mauve.vercel.app/
 | Project | Description |
 |----------|-------------|
 | 🤖 Nebula AI Workspace | AI-powered workspace focused on intelligent workflows, productivity, automation, and modern AI integrations. |
-| ⚡ RenderLens | React performance analyzer with dependency visualization, hotspot detection, optimization scoring, and automated refactor suggestions. |
+| 🤖 AI Tool Hub | AI Tools Directory Platform | Built a scalable AI tools discovery platform with categorized listings and advanced search functionality. |
 | 🌐 Developer Portfolio | Interactive portfolio showcasing projects, skills, engineering work, animations, and case studies. |
 
 ---
