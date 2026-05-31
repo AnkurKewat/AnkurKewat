@@ -1,55 +1,64 @@
 # Hi 👋 I'm Ankur Kewat
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Building+Modern+Web+Applications;Creating+AI+Powered+Products;Open+to+Global+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Building+Modern+Web+Applications;Creating+AI-Powered+Products;Open+to+Global+Remote+Opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkurKewat&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AnkurKewat&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AnkurKewat?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AnkurKewat?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer and AI Engineer passionate about building scalable web applications, AI-powered products, SaaS platforms, developer tools, and intelligent workflows.
+I am a Full Stack Developer and AI Engineer passionate about creating scalable web applications, intelligent software systems, developer tools, and AI-powered products.
 
-Currently focused on:
+My focus areas include modern frontend development, backend engineering, AI integrations, automation systems, RAG applications, SaaS platforms, and developer productivity tools.
 
-* Full Stack Development
-* Artificial Intelligence Applications
-* AI Agents & Automation
-* RAG Systems
-* Developer Productivity Tools
-* Modern SaaS Products
+Currently exploring:
+
+- AI Agents
+- Full Stack SaaS Products
+- RAG Systems
+- Next.js Ecosystem
+- Developer Tools
+- Open Source Development
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://ankur-flame.vercel.app/
+👉 **Portfolio Website**
+
+https://ankur-flame.vercel.app/
 
 ---
 
 ## 🤖 AI Workspace
 
-🔗 https://nebula-pi-mauve.vercel.app/
+👉 **Nebula AI Workspace**
+
+https://nebula-pi-mauve.vercel.app/
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,python,git,github,tailwind,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,python,git,github,tailwind,vercel,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnkurKewat&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurKewat&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnkurKewat&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurKewat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +66,7 @@ Currently focused on:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkurKewat&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AnkurKewat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +74,15 @@ Currently focused on:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkurKewat&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkurKewat&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurKewat&theme=tokyo-night" />
 </p>
 
 ---
@@ -73,47 +90,60 @@ Currently focused on:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AnkurKewat/Ankur-Kewat/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AnkurKewat/Ankur-Kewat/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Nebula AI Workspace
-
-AI-powered development workspace designed to improve productivity through intelligent workflows, automation, and modern AI integrations.
-
-### ⚡ RenderLens
-
-React performance analysis platform featuring dependency visualization, hotspot detection, performance scoring, component intelligence, and automated optimization suggestions.
-
-### 🌐 Developer Portfolio
-
-Interactive portfolio showcasing projects, technical skills, animations, and engineering work.
+| Project | Description |
+|----------|-------------|
+| 🤖 Nebula AI Workspace | AI-powered workspace focused on intelligent workflows, productivity, automation, and modern AI integrations. |
+| ⚡ RenderLens | React performance analyzer with dependency visualization, hotspot detection, optimization scoring, and automated refactor suggestions. |
+| 🌐 Developer Portfolio | Interactive portfolio showcasing projects, skills, engineering work, animations, and case studies. |
 
 ---
 
 ## 🎯 Current Focus
 
-* Building AI Products
-* Full Stack SaaS Applications
-* Developer Tools
-* Advanced React & Next.js
-* AI Agent Systems
-* Open Source Contributions
+- Building AI Products
+- AI Agent Systems
+- Full Stack SaaS Platforms
+- Developer Productivity Tools
+- Advanced React & Next.js
+- Open Source Contributions
+
+---
+
+## 🌎 Open To Opportunities
+
+I am actively looking for:
+
+- Remote Full Stack Developer Roles
+- AI Engineer Roles
+- Software Engineer Positions
+- Startup Opportunities
+- International Internship Programs
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
+### LinkedIn
 https://linkedin.com/in/ankur-kewat-a11772282
 
-🌐 Portfolio
-https://ankur-flame.vercel.app
+### Portfolio
+https://ankur-flame.vercel.app/
 
-💻 GitHub
+### GitHub
 https://github.com/AnkurKewat
 
-📧 Open to Global Remote Opportunities
+### Email
+Available upon request
+
+---
+
+<p align="center">
+  <b>Building AI-Powered Products • Full Stack Applications • Developer Tools</b>
+</p>
